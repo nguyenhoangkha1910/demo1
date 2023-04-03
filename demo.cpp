@@ -8,6 +8,7 @@ int main(int argc, char** argv) {
 	
 	int a = 5, b = 10;
 	std::cout << a + b << std::endl;
+	std::cout << a - b << std::endl;
 	
 	return 0;
 }
