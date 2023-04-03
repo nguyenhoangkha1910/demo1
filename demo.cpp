@@ -6,5 +6,8 @@ int main(int argc, char** argv) {
 	std::cout << "helo" << std::endl;
 	std::cout << "hello - 2" << std::endl;
 	
+	int a = 5, b = 10;
+	std::cout << a + b << std::endl;
+	
 	return 0;
 }
